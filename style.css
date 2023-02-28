@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(31, 30, 30);
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(175, 231, 225);
+}
+h1 {
+  color: rgb(182, 233, 223);
+  text-align: center;
+  font-size:100px;
+  margin: auto;
+}
+
+h3 {
+  font-size:40px;
+  padding: auto;
+  margin:auto;
+}
+.recipe {
+  background-color: rgb(56, 122, 122);
+  margin: 10px auto;
+  padding-top: 15px;
+  display: block;
+  width: 600px;
+  text-align: center;
+}
+
+.recipeImage {
+  border: 3px double grey;
+  width: 550px;
+  margin: 1px auto;
+  display: block;
+}
